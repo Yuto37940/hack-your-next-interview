@@ -3,3 +3,4 @@ dist/
 .venv/
 *.pyc
 node_modules/
+.pytest_cache/
